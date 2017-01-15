@@ -1,0 +1,54 @@
+{
+  "name": "Pong",
+  "assets": [
+    {
+      "id": "0",
+      "name": "Sprites",
+      "type": null,
+      "children": [
+        {
+          "id": "5",
+          "name": "Ball",
+          "type": "sprite"
+        },
+        {
+          "id": "6",
+          "name": "Racket",
+          "type": "sprite"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Scripts",
+      "type": null,
+      "children": [
+        {
+          "id": "4",
+          "name": "Behaviour",
+          "type": "script"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Background",
+      "type": "scene"
+    },
+    {
+      "id": "7",
+      "name": "Police",
+      "type": "font"
+    },
+    {
+      "id": "8",
+      "name": "Sound",
+      "type": "sound"
+    },
+    {
+      "id": "9",
+      "name": "Music",
+      "type": "sound"
+    }
+  ]
+}
